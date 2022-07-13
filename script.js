@@ -32,8 +32,8 @@ const getDistanceHint = function (distance) {
 };
 
 
-const width = 800;
-const height = 800;
+const width = 600;
+const height = 600;
 let tries = 30;
 let clicks = 0;
 const target = {
